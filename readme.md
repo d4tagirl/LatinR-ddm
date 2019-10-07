@@ -2,7 +2,7 @@
 <img src="header.png"/>
 </p>
 
-### Mi primer aporte al #datosdemiércoles y en realidad no usé los datos... ¯\\_(ツ)_/¯ 
+### Mi primer aporte al #datosdemiercoles y en realidad no usé los datos... ¯\\_(ツ)_/¯ 
 
 Nube de palabras con los usuarios que mencionaron @LatinR_conf
 
